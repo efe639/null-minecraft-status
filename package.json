@@ -1,0 +1,17 @@
+{
+  "name": "ekmeknull",
+  "version": "1.0.0",
+  "description": "null yapıyor ya",
+  "main": "null.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "This-null",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "request": "^2.88.2"
+  }
+}
